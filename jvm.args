@@ -1,0 +1,6 @@
+# HikariCP 4.0.0+, если нужны jmx метрики со стандарными ObjectName
+-Dhikaricp.jmx.register2.0=true
+
+# Spring [4.0.2, 6.1.1], backported to [3.2.8, 3.2.18], не требуется для Spring 6.1.2+
+# и Spring Boot 3.2.1+, можно указать через spring.properties
+-Dspring.jdbc.getParameterType.ignore=true
