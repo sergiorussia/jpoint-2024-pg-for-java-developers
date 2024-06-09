@@ -2,6 +2,8 @@
 
 https://jpoint.ru/talks/03ef5283a6144812a458c431580165f4/
 
+Финальные слайды [slides.pdf](slides.pdf)
+
 Доп материалы к слайдам:
 
 - `application.properties` - итоговый конфиг
