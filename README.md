@@ -1,8 +1,8 @@
 # JPoint 2024, PG для Java-разработчиков
 
 https://jpoint.ru/talks/03ef5283a6144812a458c431580165f4/
-https://www.youtube.com/watch?v=TPGz4HotDr4
-https://vk.com/video-796_456240472
+
+https://www.youtube.com/watch?v=TPGz4HotDr4 или https://vk.com/video-796_456240472
 
 Финальные слайды [slides.pdf](slides.pdf)
 
